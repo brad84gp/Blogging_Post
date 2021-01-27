@@ -1,0 +1,11 @@
+#tag_list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+#tag:hover {
+    color: black;
+}
+
